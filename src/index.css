@@ -1,0 +1,14 @@
+@import "tailwindcss";
+@tailwind utilities;
+
+:root {
+  --bg-color: #ffffff;
+  --text-color: #1a1a1a;
+  --nav-bg: #f8f9fa;
+}
+
+.dark {
+  --bg-color: #1a1a1a;
+  --text-color: #ffffff;
+  --nav-bg: #2d2d2d;
+}
